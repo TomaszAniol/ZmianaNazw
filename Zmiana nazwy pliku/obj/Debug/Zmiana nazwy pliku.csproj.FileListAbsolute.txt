@@ -1,0 +1,9 @@
+c:\users\tomek\documents\visual studio 2015\Projects\Zmiana nazwy pliku\Zmiana nazwy pliku\bin\Debug\Zmiana nazwy pliku.exe.config
+c:\users\tomek\documents\visual studio 2015\Projects\Zmiana nazwy pliku\Zmiana nazwy pliku\bin\Debug\Zmiana nazwy pliku.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Zmiana nazwy pliku\Zmiana nazwy pliku\bin\Debug\Zmiana nazwy pliku.pdb
+c:\users\tomek\documents\visual studio 2015\Projects\Zmiana nazwy pliku\Zmiana nazwy pliku\obj\Debug\Zmiana nazwy pliku.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2015\Projects\Zmiana nazwy pliku\Zmiana nazwy pliku\obj\Debug\Zmiana_nazwy_pliku.Form1.resources
+c:\users\tomek\documents\visual studio 2015\Projects\Zmiana nazwy pliku\Zmiana nazwy pliku\obj\Debug\Zmiana_nazwy_pliku.Properties.Resources.resources
+c:\users\tomek\documents\visual studio 2015\Projects\Zmiana nazwy pliku\Zmiana nazwy pliku\obj\Debug\Zmiana nazwy pliku.csproj.GenerateResource.Cache
+c:\users\tomek\documents\visual studio 2015\Projects\Zmiana nazwy pliku\Zmiana nazwy pliku\obj\Debug\Zmiana nazwy pliku.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Zmiana nazwy pliku\Zmiana nazwy pliku\obj\Debug\Zmiana nazwy pliku.pdb
